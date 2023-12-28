@@ -44,7 +44,6 @@ with open("text.txt",'w')as fp:
 ```
 
 ### OUTPUT:
-![image](https://github.com/Manikandanrag/Word-count/assets/138849491/2cd60550-3811-4dd7-90e8-1501279f57a3)
 ![image](https://github.com/Manikandanrag/Word-count/assets/138849491/50e1fed7-723d-4fe3-baca-79806a4aa196)
 
 
